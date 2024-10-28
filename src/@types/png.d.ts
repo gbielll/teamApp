@@ -1,0 +1,1 @@
+declare module '*.png' //aqui eu falo que pode aceitar qualquer arquivo que termine com .png
